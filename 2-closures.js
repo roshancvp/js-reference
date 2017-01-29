@@ -34,3 +34,5 @@ console.log(getSubmarineTicket("Mario"));
 console.log(getSubmarineTicket("Toad"));
 console.log(getBattleshipTicket("Luigi"));
 console.log(getSeagullTicket("Bowser"));
+
+/* Part 2 */
